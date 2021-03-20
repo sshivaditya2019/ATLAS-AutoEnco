@@ -8,8 +8,12 @@
 ## Usage
 
 ```sh
-Download the NoteBook and run in Juypter Server
+git clone https://github.com/sshivaditya2019/ATLAS-AutoEnco.git
+cd ATLAS-AutoEnco
+jupyter notebook ATLAS.ipynb
+
 ```
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18LSY2t2kwOwpEqOtrjwHHhMwYG9Or4Oj?usp=sharing)
 
 ## Author
 
@@ -22,5 +26,3 @@ Download the NoteBook and run in Juypter Server
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
